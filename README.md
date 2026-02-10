@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**JulioMaciasss/JulioMaciasss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Julio Macías**, a Telecommunications Engineer focused on **wireless DSP + SDR** and building reliable systems that connect the physical layer with real deployments.
 
-Here are some ideas to get you started:
+🔭 Current focus (2026–2027)
+- 6G PHY research: OTFS vs OFDM in high-mobility channels (Doppler-resilient waveforms).
+- SDR/DSP fundamentals: synchronization, channel estimation, equalization, BER evaluation.
+- Learning by building: Flask+SQL app, n8n automations, and an AWS EC2+RDS deployment exercise.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧩 Highlighted repositories
+- 📶 OTFS vs OFDM (high mobility): [otfs-ofdm-high-mobility](TODO_LINK_OTFS_REPO)
+- 🛰️ SDR/DSP building blocks (sync/estimation/BER): [sdr-dsp-building-blocks](TODO_LINK_SDR_DSP_REPO)
+- 🧱 Flask + SQL + n8n business app (course project): [flask-sql-n8n-business-app](TODO_LINK_FLASK_REPO) 
+- ☁️ AWS EC2 + RDS dynamic web app (deployment lab): [aws-ec2-rds-dynamic-webapp](TODO_LINK_AWS_REPO)
+
+
+📫 Connect
+- LinkedIn: www.linkedin.com/in/juliomaciass
+- Email: juliomacias12.jm@gmail.com
+
