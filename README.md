@@ -5,7 +5,7 @@ I'm **Julio Macías**, a Telecommunications Engineer focused on **wireless DSP +
 🔭 Current focus (2026–2027)
 - 6G PHY research: OTFS vs OFDM in high-mobility channels (Doppler-resilient waveforms).
 - SDR/DSP fundamentals: synchronization, channel estimation, equalization, BER evaluation.
-- Learning by building: Flask+SQL app, n8n automations, and an AWS EC2+RDS deployment exercise.
+- Learning by building: n8n automations, Flask+SQL app and an AWS EC2+RDS deployment exercise.
 
 🧩 Highlighted repositories
 - 📶 OTFS vs OFDM (high mobility): [otfs-ofdm-high-mobility](TODO_LINK_OTFS_REPO)
