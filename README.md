@@ -9,7 +9,6 @@ I'm **Julio Macías**, a Telecommunications Engineer focused on **wireless DSP +
 
 🧩 Highlighted repositories
 - 📶 OTFS vs OFDM (high mobility): [otfs-ofdm-high-mobility](TODO_LINK_OTFS_REPO)
-- 🛰️ SDR/DSP building blocks (sync/estimation/BER): [sdr-dsp-building-blocks](TODO_LINK_SDR_DSP_REPO)
 - 🧱 Flask + SQL + n8n business app (course project): [flask-sql-n8n-business-app](TODO_LINK_FLASK_REPO) 
 - ☁️ AWS EC2 + RDS dynamic web app (deployment lab): [aws-ec2-rds-dynamic-webapp](TODO_LINK_AWS_REPO)
 
